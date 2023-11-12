@@ -1,6 +1,8 @@
 # MKS Market - Desafio Frontend
 
 Projeto online em: https://mks-market.vercel.app/
+
+
 Projeto Next.js para o desafio de frontend da empresa MKS. Este projeto foi desenvolvido para testar as habilidades e aptidões como desenvolvedor frontend e demonstrar o conhecimento nas tecnologias solicitadas.
 
 ## Descrição do Projeto
